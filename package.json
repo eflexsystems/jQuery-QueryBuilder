@@ -1,10 +1,8 @@
 {
-  "name": "jQuery-QueryBuilder",
+  "name": "eflex-jQuery-QueryBuilder",
   "version": "2.3.3",
   "author": {
-    "name": "Damien \"Mistic\" Sorel",
-    "email": "contact@git.strangeplanet.fr",
-    "url": "http://www.strangeplanet.fr"
+    "name": "eFlex Systems"
   },
   "description": "jQuery plugin for user friendly query/filter creator",
   "devDependencies": {
@@ -37,13 +35,13 @@
     "filter"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/mistic100/jQuery-QueryBuilder",
+  "homepage": "https://github.com/eflexsystems/jQuery-QueryBuilder",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mistic100/jQuery-QueryBuilder.git"
+    "url": "git://github.com/eflexsystems/jQuery-QueryBuilder.git"
   },
   "bugs": {
-    "url": "https://github.com/mistic100/jQuery-QueryBuilder/issues"
+    "url": "https://github.com/eflexsystems/jQuery-QueryBuilder/issues"
   },
   "scripts": {
     "test": "grunt test"
